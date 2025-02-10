@@ -1,17 +1,16 @@
 /*  your css code here. If applicable */
-.marguee {
-	font-size: 24px;
-	font-weight: bold;
-	text-align: center;
-	background: #f8f9fa;
-    padding: 10px;
-}
-
-.article {
-          margin: 20px 0px;
-}
-img {
-	height: 200px;
-	width: 100%;
-	object-fit: cover;
-}
+  .marquee {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            background: #f8f9fa;
+            padding: 10px;
+        }
+        .article {
+            margin: 20px 0;
+        }
+        img {
+            height: 200px;
+            width: 100%;
+            object-fit: cover;
+        }
